@@ -1,0 +1,74 @@
+body{
+	/**background-color: #d4cfcac9
+	margin: 0;
+	padding: 0;**/ 
+	background-image: url("../images/regal.png");
+	width: 100%;
+	margin: auto;
+	
+}
+
+
+li{
+	list-style: none;
+	float: left;
+	margin-left: 15px;
+	position: relative;
+	right: 20px;
+	bottom: 150px;
+}
+
+.nav {
+	float: right;
+	margin: 90px;
+}
+
+.nav a:hover {
+	background-color: #ffffff;
+	color: #7f9bb6;
+}
+
+
+
+h1 {
+	color: white;
+	background-color: #7f9bb6;
+	margin-left: -80px;
+    padding: 35px;
+    position: relative;
+    top: 45px;
+    left: 80px;
+    padding: 10px;
+}
+
+p, h1, {
+	font-family: 'Roboto Slab', serif;
+}
+
+.footer {
+	text-align: center;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #7f9bb6;
+	color: white;
+	padding: 15px;
+}
+
+.navbar{
+	background-color: #7f9bb6;
+	color: #fcfcfc;
+}
+
+.display-4{
+	position: absolute;
+    margin-left: -105px;
+    margin-top: 30px;
+    padding-right: 21px;
+}
+
+.nav-link {
+	color: #f8f9fa;
+}
+

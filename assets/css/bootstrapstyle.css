@@ -19,7 +19,6 @@ li{
 }
 
 .nav {
-	float: right;
 	margin: 90px;
 }
 
@@ -45,7 +44,7 @@ p, h1, {
 	font-family: 'Roboto Slab', serif;
 }
 
-.footer {
+.fixed-bottom {
 	text-align: center;
 	position: fixed;
 	left: 0;
@@ -53,7 +52,7 @@ p, h1, {
 	width: 100%;
 	background-color: #7f9bb6;
 	color: white;
-	padding: 15px;
+	padding: 5px;
 }
 
 .navbar{

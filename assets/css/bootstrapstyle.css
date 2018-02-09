@@ -71,3 +71,57 @@ p, h1, {
 	color: #f8f9fa;
 }
 
+.row {
+    margin-top: -73px;
+    height: 565px;
+}
+
+
+.placeholderone {
+    margin-top: 188px;
+}
+
+
+.placeholdertwo {
+    margin-top: 193px;
+}
+
+#Portfolio {
+    width: 209px;
+    height: 50px;
+    position: absolute;
+    left: 212px;
+    bottom: 477px;
+    background-color: #7f9bb6;
+    color: #f8f9fa;
+    text-align: center;
+    padding-top: 14px;
+}
+
+.card-header {
+    background-color: #2a7ecc;
+    color:#39546e;
+}
+
+
+
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -72px;
+}
+
+#Contact {
+    width: 209px;
+    height: 50px;
+    position: absolute;
+    left: 138px;
+    top: 79px;
+    background-color: #7f9bb6;
+    color: #f8f9fa;
+    text-align: center;
+    padding-top: 14px;
+}
